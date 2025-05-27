@@ -63,7 +63,7 @@ function TokenTable() {
               <TableCell>
                 <Box display="flex" alignItems="center" gap={1}>
                   <Avatar
-                    src={`/assets/icons/${token.symbol.toLowerCase()}.svg`}
+                    src={`src/assets/icons/${token.symbol.toLowerCase()}.svg`}
                     alt={token.symbol}
                     sx={{ width: 24, height: 24 }}
                   />

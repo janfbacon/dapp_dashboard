@@ -4,7 +4,7 @@ import { ethers } from 'ethers';
 import AccountBalanceWalletIcon from '@mui/icons-material/AccountBalanceWallet';
 import LogoutIcon from '@mui/icons-material/Logout';
 import SwapHorizIcon from '@mui/icons-material/SwapHoriz';
-import MetaMaskLogo from '/assets/metamask.svg';
+import MetaMaskLogo from '../assets/metamask.svg';
 
 declare global {
   interface Window {
