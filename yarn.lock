@@ -2271,9 +2271,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dapp-dashboard@workspace:.":
+"dapp_dashboard@workspace:.":
   version: 0.0.0-use.local
-  resolution: "dapp-dashboard@workspace:."
+  resolution: "dapp_dashboard@workspace:."
   dependencies:
     "@emotion/react": "npm:^11.14.0"
     "@emotion/styled": "npm:^11.14.0"
