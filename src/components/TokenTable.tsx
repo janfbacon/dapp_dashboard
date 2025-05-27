@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import {
   Table, TableHead, TableRow, TableCell, TableBody,
   TableSortLabel, Paper, Avatar, Box, Typography

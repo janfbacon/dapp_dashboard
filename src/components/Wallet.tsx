@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Box, Button, Typography, IconButton, Snackbar, Alert } from '@mui/material';
 import { ethers } from 'ethers';
 import AccountBalanceWalletIcon from '@mui/icons-material/AccountBalanceWallet';

@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { ThemeProvider, CssBaseline, AppBar, Tabs, Tab, Toolbar, IconButton } from '@mui/material';
 import { Brightness4, Brightness7 } from '@mui/icons-material';
 import { lightTheme, darkTheme } from './theme/theme';
